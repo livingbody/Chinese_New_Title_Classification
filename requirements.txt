@@ -1,0 +1,9 @@
+paddlepaddle
+paddlepaddle-gpu
+paddlenlp
+paddlehub
+visualdl
+paddleseg
+paddlenlp
+paddleocr
+paddleX
